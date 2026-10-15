@@ -1,0 +1,11 @@
+{
+  "org": "googleapis",
+  "repo": "python-api-core",
+  "versions": [
+    {
+      "commit": "daf3040befffb7dd9629c43c4201e6e4db693b15",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:39:44.098091+00:00"
+    }
+  ]
+}

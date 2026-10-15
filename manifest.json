@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "googleapis",
+  "repo": "python-api-core",
+  "versions": [
+    {
+      "commit": "daf3040befffb7dd9629c43c4201e6e4db693b15",
+      "parsed_at": "2026-10-15T09:36:56.864227+00:00",
+      "filetree": "filetree/daf3040befffb7dd9629c43c4201e6e4db693b15.nq.gz",
+      "blobs": [
+        "blob/8b6a7614d1ec58dddcee62d703a8eff9af1b9ca7.nq.gz",
+        "blob/79e7428a521830174c9bdae25e6361efe8cd4e2c.nq.gz",
+        "blob/8b58ae9c01ae3b07eeba325544a99071e0713f31.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

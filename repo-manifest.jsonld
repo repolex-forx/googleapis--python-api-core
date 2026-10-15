@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/googleapis/python-api-core/commit/daf3040befffb7dd9629c43c4201e6e4db693b15",
       "git:hexsha": "daf3040befffb7dd9629c43c4201e6e4db693b15",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:39:44.096960+00:00"
     },
     {
       "@id": "https://repolex.ai/r/googleapis/python-api-core/commit/014d3def6ac4fdd5b39d5296a5aad10a546fde21",
